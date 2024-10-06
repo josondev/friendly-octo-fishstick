@@ -1,0 +1,7 @@
+aenum
+lyzr
+--upgrade youtube_transcript_api
+docx2txt
+-- upgrade nest_asyncio
+--upgrade playwright
+libwoff2dec-bin libgstreamer1.0-0 libgstreamer-plugins-base1.0-0 libharfbuzz-icu0
